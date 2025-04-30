@@ -1,6 +1,6 @@
 
-# Cadastro de Biblioteca
+# Cadastro de Livros
 
 **COMO** Bibliotecário,  
-**QUERO** controlar o acervo da biblioteca 
-**PARA** agilizar as operações e melhorar o atendimento.
+**QUERO** cadastrar novos livros no sistema
+**PARA** Manter os computadores e softwares da biblioteca atualizados.
