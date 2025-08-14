@@ -1,5 +1,4 @@
 package br.edu.ifrn.biblioteca.controladores;
-
 import br.edu.ifrn.biblioteca.modelo.Usuario;
 import br.edu.ifrn.biblioteca.persistencia.repositorio.UsuarioRepo;
 import jakarta.validation.Valid;

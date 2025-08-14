@@ -1,4 +1,4 @@
-package br.edu.ifrn.biblioteca.model;
+package br.edu.ifrn.biblioteca.modelo;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
